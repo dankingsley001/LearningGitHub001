@@ -1,3 +1,5 @@
 # LearningGitHub001
 
 GitHub is the industry-standard tool for collaborating on and sharing code. It’s popular among software developers, project managers, designers, and students for its flexibility and control. This course introduces GitHub and Git, the version control system that GitHub is built upon. Instructor Emanuele Bartolesi shows how GitHub can create collaborative workflows for you and your team. Explore how version control enables you and your team to track the changes in your files, maintain a history of them, and get some advice to work better with open-source projects. Emanuele gives you the knowledge you need to be able to select appropriate projects to be pushed to GitHub, successfully initialize Git on an existing project, navigate the GitHub UI to perform common tasks like branching, commits, and pull requests, and more.
+
+Snap up huge savings of up to 97% on additional domains, or get hosting for your current domain for less. Plus, save on all the tools you need to build and grow a fully-fledged website. Use our Summer Sale to turn seasonal slowdown into your next big idea.
